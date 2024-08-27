@@ -1,5 +1,5 @@
-<h1 align="center"> 👨‍💻 GOIT Individual Project 👩‍💻 </h1>
-<h2 align="center">   Expenses Tracker 💸   </h2>
+<h1 align="center"> GOIT PROJECT </h1>
+<h2 align="center">   Expenses Tracker  </h2>
 <h3 align="center">  Brigido Pangulayan  </h3>
 
 <span align="center">
@@ -17,7 +17,7 @@
 
 </span>
 
-<h3 align="center"> 📌 Expenses Tracker 🌚 <h3>
+<h3 align="center">  Expenses Tracker  <h3>
 
 ## Description
 
