@@ -89,18 +89,7 @@ const OperationForm = ({editData, closeModal}) => {
 
 
   return (
-    // <StyledFormWrapper
-    //   autoComplete="off"
-    //   onSubmit={handleSubmit(data =>
-    //     onSubmitTransaction(
-    //       data,
-    //       PreSelectType(transactionsType),
-    //       categoryId,
-    //       dispatch,
-    //       reset
-    //     )
-    //   )}
-    // >
+    
       <StyledFormWrapper style={wrapperStyle}
         autoComplete="off"
         onSubmit={
